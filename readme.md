@@ -5,9 +5,10 @@ Notes and scripts for the [Ezykeys No 2846 kit](https://ezykeys.com/) - a 5-key 
 - no 2846
 - Frankenstein MK5
 
+![a keypad with 5 keys lit in blue and a raised LCD screen, looking like a miniature old-style PC](./img/first-assembly.jpeg)
 ## what is here
 
-- [images](img/) of my keypad
+- several [images](img/) of my keypad
 - code: [JavaScript](js/) (link to another [project]((https://github.com/RediPanda/Redi-No2846-Driver))), [Python](python/), [Swift](swift/)
 - default [Vial configuration](2846-default.vil)
 - notes on [figuring out the hardware](mk5-2846.md)
