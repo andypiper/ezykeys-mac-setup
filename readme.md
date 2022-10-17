@@ -12,6 +12,7 @@ Notes and scripts for the [Ezykeys No 2846 kit](https://ezykeys.com/) - a 5-key 
 - code: [JavaScript](js/) (link to another [project]((https://github.com/RediPanda/Redi-No2846-Driver))), [Python](python/), [Swift](swift/)
 - default [Vial configuration](2846-default.vil)
 - notes on [figuring out the hardware](mk5-2846.md)
+- stuff I learned about the (Windows-only) [software](win-sw.md)
 
 ## references
 

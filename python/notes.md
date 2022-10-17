@@ -91,10 +91,7 @@ DEVICE ID fefd:0003 on Bus 001 Address 004 =================
 >>>
 ```
 
-
-Now with hidapi...
-
-pip3 install hidapi
+Using hid
 
 ```python
 >>> import hid
@@ -103,3 +100,4 @@ pip3 install hidapi
 >>> h.write([0x00,0xfd,0x01,0x01 + encode(b"there", 'hex') + [0x20] * 15)
 ```
 
+(seems inconsistent / sometimes fails to open device)
